@@ -81,3 +81,4 @@ cv2.imwrite("output/result.jpg",img)
 cv2.imshow("OMR", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+#
